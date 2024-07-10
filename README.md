@@ -8,6 +8,10 @@
 
 ### Reach me at [LinkedIn](https://www.linkedin.com/in/waqqar-khan) 📫
 
+<br/>
+<br/>
+<br/>
+
 <div align="center">
   
 ## Personal Live Projects 👨‍💻
@@ -15,9 +19,6 @@
 
 </div>
 
-<br/>
-<br/>
-<br/>
 <h2 align="center"> About Me: 💬</h2>
 <h3 align="center"> Experienced ReactJS Developer (Frontend Developer) | Certified Scrum Product Owner® | Expert in JavaScript, React and Backstage.io</h3>
 
