@@ -8,8 +8,12 @@
 
 ### Reach me at [LinkedIn](https://www.linkedin.com/in/waqqar-khan) 📫
 
-## Personal Live Projects
-#### [1. Countries Info](https://countries-info-waqqar-khans-projects.vercel.app/)  [2. Shopping Mart](https://shopping-mart-waqqar-khans-projects.vercel.app/)  [3. Background Changer](https://background-changer-waqqar-khans-projects.vercel.app/)
+<div align="center">
+  
+## Personal Live Projects 👨‍💻
+#### [⚡ Countries Info](https://countries-info-waqqar-khans-projects.vercel.app/)  [⚡ Shopping Mart](https://shopping-mart-waqqar-khans-projects.vercel.app/)  [⚡ Background Changer](https://background-changer-waqqar-khans-projects.vercel.app/)
+
+</div>
 
 <br/>
 <br/>
@@ -17,7 +21,7 @@
 <h2 align="center"> About Me: 💬</h2>
 <h3 align="center"> Experienced ReactJS Developer (Frontend Developer) | Certified Scrum Product Owner® | Expert in JavaScript, React and Backstage.io</h3>
 
-<div align=center>
+<div align="center">
   
 Seasoned in the world of Frontend development, with a robust background spanning over 4 years, I bring forth an exceptional expertise as a frontend developer. My journey in the tech realm has seen me excel in multiple domains, including Enterprise Platform Development, Retail, and E-commerce. Having dedicated 3 years to mastering JavaScript and ReactJS, I possess an innate understanding of crafting immersive web experiences that captivate users.
 
