@@ -8,6 +8,11 @@
 
 ### Reach me at [LinkedIn](https://www.linkedin.com/in/waqqar-khan) 📫
 
+## Personal Live Projects
+<h1>Countries Info</h1> : [Countries Info](https://countries-info-waqqar-khans-projects.vercel.app/)
+<h1>Shopping Mart</h1> : [Shopping Mart](https://shopping-mart-waqqar-khans-projects.vercel.app/)
+<h1>Background Changer</h1> : [Background Changer](https://background-changer-waqqar-khans-projects.vercel.app/)
+
 <br/>
 <br/>
 <br/>
