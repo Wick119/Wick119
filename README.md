@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wick119.wick119" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=waqqar-khan.waqqar-khan" />
 
 <h1 align="center"> Hi there, I'm Waqqar Khan! 👋</h1>
 
@@ -37,13 +37,13 @@ In the ever-evolving landscape of web development, I'm a catalyst for innovation
 <h2 align="center">⚡ Stats ⚡</h2><br>
 
 <div align="center">
-<img style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wick119&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Waqqar Top Languages" />
+<img style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqqar-khan&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Waqqar Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=wick119&show_icons=true&rank_icon=github&theme=react&border_radius=10&count_private=true&locale=en" alt="Waqqar Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=waqqar-khan&show_icons=true&rank_icon=github&theme=react&border_radius=10&count_private=true&locale=en" alt="Waqqar Stats" />
 <div>
 
 <div align="center">
-<img style="margin-top: 16px" src="https://github-readme-streak-stats.herokuapp.com/?user=wick119&count_private=true&theme=react&border_radius=10" alt="Waqqar Streak" />
+<img style="margin-top: 16px" src="https://github-readme-streak-stats.herokuapp.com/?user=waqqar-khan&count_private=true&theme=react&border_radius=10" alt="Waqqar Streak" />
 </div><br/><br/>
 
 # Thanks for visiting! ✨ Shoot me a message on Linkedin! 📫
