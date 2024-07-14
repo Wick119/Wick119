@@ -12,29 +12,20 @@
 <br/>
 <br/>
 
-<div align="center">
-  
-## Personal Live Projects 👨‍💻
-#### [⚡ Countries Info](https://countries-info-waqqar-khans-projects.vercel.app/)  [⚡ Shopping Mart](https://shopping-mart-waqqar-khans-projects.vercel.app/)  [⚡ Background Changer](https://background-changer-waqqar-khans-projects.vercel.app/) [⚡ Todo App](https://todo-app-waqqar-khans-projects.vercel.app/)
-
-</div>
-
 <h2 align="center"> About Me: 💬</h2>
-<h3 align="center"> Experienced ReactJS Developer (Frontend Developer) | Certified Scrum Product Owner® | Expert in JavaScript, React and Backstage.io</h3>
+<h3 align="center"> Experienced Frontend Developer (ReactJS)</h3>
 
 <div align="center">
+  <p>Expert in JavaScript, React and Backstage.io. Certified Scrum Product Owner®.</p>
   
-Seasoned in the world of Frontend development, with a robust background spanning over 4 years, I bring forth an exceptional expertise as a frontend developer. My journey in the tech realm has seen me excel in multiple domains, including Enterprise Platform Development, Retail, and E-commerce. Having dedicated 3 years to mastering JavaScript and ReactJS, I possess an innate understanding of crafting immersive web experiences that captivate users.
+<p>Seasoned in the world of Frontend development, I have total 4 years of experience. I bring forth an exceptional expertise as a frontend developer.</p>
+<p> I've successfully contributed to 5 Organizational projects by embracing both Agile and Waterfall methodologies, bringing flexibility and structure to each initiative.</p>
 
-My dedication to delivering solutions that matter is augmented by my role as a Certified Scrum Product Owner® (CSPO®), championing agile methodologies that foster streamlined and efficient development. With an unwavering commitment to addressing customer pain points, I utilize my extensive experience to create solutions that resonate. I've successfully contributed to countless projects by embracing both Agile and Waterfall methodologies, bringing flexibility and structure to each initiative.
+<p>My prowess extends beyond technical prowess alone. I've honed the art of UI development leadership, offering guidance and mentorship to fellow developers while consistently delivering outcomes that redefine user experiences. My toolkit includes Full Stack Development, Mobile Development, Web Development, ReactJS, React Native, Redux, NodeJS, ExpressJS, Mongoose, MySql and JavaScript, backed by a deep understanding of project management tools and collaborative platforms. My journey in the tech realm has seen me excel in multiple domains, including Enterprise Platform Development, Retail, and E-commerce. Having dedicated 3 years to mastering JavaScript and ReactJS, I possess an innate understanding of crafting immersive web experiences that captivate users.</p>
 
-Beyond the lines of code, I've worn the hat of a Technical Interviewer, conducting over 500 interviews. This perspective has enriched my skills, enhancing my ability to gauge and recognize top-tier talent. Furthermore, my stint as a Management Trainee during my bachelor's degree has provided me with a unique perspective on organizational dynamics and effective collaboration.
+<p>In the ever-evolving landscape of web development, I'm a catalyst for innovation. I thrive on pushing boundaries and crafting solutions that excel not only in technical rigor but also in exceeding user expectations. With a blend of comprehensive skills, an unwavering commitment to excellence, and a passion for driving impactful projects, I'm poised to thrive in even the most complex development scenarios.</p>
 
-My prowess extends beyond technical prowess alone. I've honed the art of UI development leadership, offering guidance and mentorship to fellow developers while consistently delivering outcomes that redefine user experiences. My toolkit includes Full Stack Development, Mobile Development, Web Development, ReactJS, React Native, Redux, NodeJS, ExpressJS, Mongoose, MySql and JavaScript, backed by a deep understanding of project management tools and collaborative platforms.
-
-In the ever-evolving landscape of web development, I'm a catalyst for innovation. I thrive on pushing boundaries and crafting solutions that excel not only in technical rigor but also in exceeding user expectations. With a blend of comprehensive skills, an unwavering commitment to excellence, and a passion for driving impactful projects, I'm poised to thrive in even the most complex development scenarios.
-
-<h4>Let's connect to explore how my expertise can bring a new dimension to your team and projects.</h4>
+<h5>Let's connect to explore how my expertise can bring a new dimension to your team and projects.</h5>
 </div>
 
 <h2 align="center">Languages and Tools: 🚀</h2>
