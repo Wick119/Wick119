@@ -14,12 +14,11 @@
 <h3 align="center"> Senior Frontend Developer (ReactJS)</h3>
 
 <div align="center">
-  <p>Expert in React JS, JavaScript and Backstage.io. Certified Scrum Product Owner®.</p>
+  <p>Expert in React JS, JavaScript and Backstage.io. Certified Scrum Product Owner®. Around 4 years of toatl Industry Experience.</p>
   
-<p>Seasoned in the world of Frontend development, I have total around 4 years of experience. I bring forth an exceptional expertise as a frontend developer.</p>
-<p> I've successfully contributed to 5 Organizational projects by embracing both Agile and Waterfall methodologies, bringing flexibility and structure to each initiative.</p>
+<p>Seasoned in the world of Frontend development, I have total around 4 years of experience. I bring forth an exceptional expertise as a frontend developer. I've successfully contributed to 5 Organizational projects by embracing both Agile and Waterfall methodologies, bringing flexibility and structure to each initiative.</p>
 
-<p>My prowess extends beyond technical prowess alone. I've honed the art of UI development leadership, offering guidance and mentorship to fellow developers while consistently delivering outcomes that redefine user experiences. My toolkit includes Full Stack Development, Mobile Development, Web Development, ReactJS, Redux, NodeJS, ExpressJS, Mongoose, MySql and JavaScript, backed by a deep understanding of project management tools and collaborative platforms. My journey in the tech realm has seen me excel in multiple domains, including Enterprise Platform Development, Retail, and E-commerce. Having dedicated 3 years to mastering JavaScript and ReactJS, I possess an innate understanding of crafting immersive web experiences that captivate users.</p>
+<p>My prowess extends beyond technical prowess alone. I've honed the art of UI development leadership, offering guidance and mentorship to junior developers while consistently delivering outcomes that redefine user experiences. My toolkit includes Full Stack Development, Mobile Development, Web Development, ReactJS, Redux, NodeJS, ExpressJS, Mongoose, MySql and JavaScript, backed by a deep understanding of project management tools and collaborative platforms. My journey in the tech realm has seen me excel in multiple domains, including Enterprise Platform Development, Retail, and E-commerce. Having dedicated 3 years to mastering JavaScript and ReactJS, I possess an innate understanding of crafting immersive web experiences that captivate users.</p>
 
 <p>In the ever-evolving landscape of web development, I'm a catalyst for innovation. I thrive on pushing boundaries and crafting solutions that excel not only in technical rigor but also in exceeding user expectations. With a blend of comprehensive skills, an unwavering commitment to excellence, and a passion for driving impactful projects, I'm poised to thrive in even the most complex development scenarios.</p>
 
