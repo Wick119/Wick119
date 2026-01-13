@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Waqqar Khan! 👋</h1>
 
-### A passionate Software Engineer from India!
+### A Senior Frontend Engineer from India!
 
 ### Reach me at [LinkedIn](https://www.linkedin.com/in/waqqar) 📫
 
