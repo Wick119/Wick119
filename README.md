@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=waqqar-khan.waqqar-khan" />
 
-<h1 align="center"> Hi there, I'm Waqqar Khan! 👋</h1>
+<h1 align="center"> Hi there, I'm Waqqar Khan! </h1>
 
 ### A Senior Frontend Engineer from India!
 
@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<h2 align="center"> About Me: 💬</h2>
+<h2 align="center"> ================>>>>> About Me  <<<<<================ </h2>
 <h3 align="center"> Senior Frontend Developer (ReactJS)</h3>
 
 <div align="center">
